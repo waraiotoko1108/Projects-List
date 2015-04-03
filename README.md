@@ -10,7 +10,7 @@ Android开发:
 
 Android维护:  
   
-- [汉得移动商务]()
+- [汉得移动商务](https://github.com/HANDBDFORE/hrms4android)
 
 Hybrid开发:  
 
