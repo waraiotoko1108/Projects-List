@@ -16,4 +16,7 @@ Hybrid开发:
 
 - [车贷计算器](https://github.com/HANDEXP/HLSCalculator)(Sencha Touch + Cordova)
 
+webApp开发:
+
+- 腾讯移动报销，接入微信企业号里webApp
 	
